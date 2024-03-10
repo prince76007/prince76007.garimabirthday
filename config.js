@@ -13,7 +13,7 @@ var config = {
         "And I pray to god to give you",
         "All the happiness and success in your life",
         "Happy Birthday",
-        "~~Prince~~",
+        "~~From me Prince~~",
         "LOL"
     ],
     /**
