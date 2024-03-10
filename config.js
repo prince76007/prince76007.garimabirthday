@@ -3,17 +3,18 @@ var config = {
     // The length of each sentence can be arbitrary; you can write ten or twenty sentences.
     // Try to keep each sentence within 15 characters for better display.
     texts: [
-        "To my dear one", // Note: The last comma at the end of each sentence must be in English! It's crucial!
-        "Beloved sweetheart", // Same as above...
-        "Today is your birthday",
-        "This is our",
-        "Third birthday together",
-        "Remember last year's birthday",
-        "We had hot pot at Wang Po's place",
-        "This year, let's have some good food",
-        "Feed my cute piggy well",
-        "And then take it away",
-        "YAMI~~",
+        "😇Garima", // Note: The last comma at the end of each sentence must be in English! It's crucial!
+        "One of the most creative", // Same as above...
+        "Sensitive",
+        "Caring",
+        "Emotional",
+        "And vulnerable person I have met",
+        "Be happy and healthy",
+        "And I pray to god to give you",
+        "All the happiness and success in your life",
+        "Happy Birthday",
+        "~~Prince~~",
+        "LOL"
     ],
     /**
      * You can leave the 'imgs' section blank, but if you want to fill it, it must follow the format below:
