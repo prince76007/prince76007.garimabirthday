@@ -1,8 +1,8 @@
 var config = {
     //
     texts: [
-        "😇Garima", // Note: The last comma at the end of each sentence must be in English! It's crucial!
-        "One of the most creative", // Same as above...
+        "😇Garima",
+        "One of the most creative",
         "Sensitive",
         "Caring",
         "Emotional",
